@@ -28,7 +28,7 @@
               p.text-small Ley Orgánica del Plan de Desarrollo. “Por la cual se establece la Ley Orgánica del Plan de Desarrollo.” Expedida el 15 de julio de 1994 por el Congreso de la República de Colombia. Su objetivo principal es organizar el Sistema Nacional de Planeación, definiendo los principios, procedimientos e instrumentos para la formulación, ejecución, seguimiento y evaluación de los planes de desarrollo en los niveles nacional, departamental, distrital y municipal. Fortalece la participación ciudadana en los procesos de planeación e impulsa la articulación de objetivos entre los diferentes niveles del Estado.
           
 
-          .row(numero="2" titulo="Ley 388 de 199")
+          .row(numero="2" titulo="Ley 388 de 1997")
             .col-md-12.mb-4.mb-md-0
               p.text-small Ley de Ordenamiento Territorial. “Por la cual se modifica la Ley 9ª de 1989 y la Ley 2ª de 1991, y se dictan otras disposiciones sobre ordenamiento territorial.” Expedida el 18 de julio de 1997 por el Congreso de la República de Colombia. Busca promover el ordenamiento del territorio municipal y distrital, fomentando un uso del suelo equitativo, eficiente y sostenible mediante procesos de planificación participativa. Su propósito es orientar el desarrollo físico del territorio, mejorar la calidad de vida de los habitantes y garantizar la función social y ecológica de la propiedad. Es la norma base para la formulación de los Planes de Ordenamiento Territorial (POT). 
 

@@ -9,7 +9,7 @@
 
     .row.align-items-center
       .col-lg-8.bg-3.p-5
-        p #[b La Declaración Universal de los Derechos Campesinos] y de Otras Personas que Trabajan en las Zonas Rurales (aprobada por la Asamblea General de las Naciones Unidas en 2018) representa un avance histórico en el reconocimiento de los derechos de quienes, tradicionalmente, han sido excluidos de los marcos jurídicos nacionales e internacionales. Esta declaración busca corregir siglos de desigualdad, discriminación y abandono hacia las comunidades rurales.
+        p #[b La Declaración Universal de los Derechos Campesinos] y de otras personas que trabajan en las zonas rurales (aprobada por la Asamblea General de las Naciones Unidas en 2018) representa un avance histórico en el reconocimiento de los derechos de quienes, tradicionalmente, han sido excluidos de los marcos jurídicos nacionales e internacionales. Esta declaración busca corregir siglos de desigualdad, discriminación y abandono hacia las comunidades rurales.
 
       .col-lg-4.d-none.d-lg-block
         figure

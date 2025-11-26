@@ -375,12 +375,18 @@ export default {
         },
         {
           id: 13,
-          texto: 'Opción a)\tFalso.\tX',
+          texto:
+            'El enfoque de género busca fortalecer la participación masculina en lo rural.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
+              texto: 'Falso.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
               texto: 'Verdadero.',
               esCorrecta: false,
             },

@@ -211,7 +211,7 @@ export default {
         'es un proceso de planificación, gestión y regulación del uso del territorio, que busca organizar de manera equilibrada las actividades humanas, los recursos naturales y el desarrollo económico, social y ambiental de un país, región o municipio.',
     },
     {
-      termino: 'Participación:',
+      termino: 'Participación',
       significado:
         'es el proceso mediante el cual las personas, grupos o comunidades intervienen activamente en la toma de decisiones que afectan su vida, su entorno y su desarrollo.',
     },
@@ -341,7 +341,7 @@ export default {
     {
       referencia:
         'Urna de Cristal. (2022). <em>Plataforma de participación ciudadana digital en Colombia.</em>',
-      link: 'https://www.urnadecristal.gov.co"',
+      link: 'https://www.urnadecristal.gov.co',
     },
   ],
   creditos: [
@@ -364,9 +364,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Alexander Díaz López',
+          nombre: 'Yuly Soley Alarcón Pérez',
           cargo: 'Experto Temático',
-          centro: 'Centro Agroturistico - Regional Santander ',
+          centro:
+            'Centro de desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
           nombre: 'Paola Alexandra Moya',
@@ -380,7 +381,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Blanca Flor Tinoco Torres',
+          nombre: 'Carlos Julian Ramirez benitez',
           cargo: 'Diseñador de contenidos',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

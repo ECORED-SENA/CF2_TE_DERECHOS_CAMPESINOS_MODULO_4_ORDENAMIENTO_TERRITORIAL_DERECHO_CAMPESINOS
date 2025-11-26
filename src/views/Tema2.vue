@@ -78,7 +78,7 @@
                     p
                       b Comités de planificación
 
-                    p Espacios participativos y consultivos donde representantes de la comunidad, sectores sociales y entidades públicas colaboran en la formulación, ejecución y evaluación de los planes de desarrollo y ordenamiento territorial. Instituidos en la Ley 152 de 199
+                    p Espacios participativos y consultivos donde representantes de la comunidad, sectores sociales y entidades públicas colaboran en la formulación, ejecución y evaluación de los planes de desarrollo y ordenamiento territorial. Instituidos en la Ley 152 de 1994
 
                   .col-md-5
                     figure
