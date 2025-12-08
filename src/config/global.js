@@ -306,7 +306,7 @@ export default {
       referencia:
         'Declaración de las Naciones Unidas sobre los derechos de los campesinos y de otras personas que trabajan en las zonas rurales. (2018). <em>La Vía Campesina.</em>',
       link:
-        'https://viacampesina.org/wp-content/uploads/2020/04/UNDROP-Book-of-Illustrations-l-ES-l-Web.pdf"',
+        'https://viacampesina.org/wp-content/uploads/2020/04/UNDROP-Book-of-Illustrations-l-ES-l-Web.pdf',
     },
     {
       referencia:
