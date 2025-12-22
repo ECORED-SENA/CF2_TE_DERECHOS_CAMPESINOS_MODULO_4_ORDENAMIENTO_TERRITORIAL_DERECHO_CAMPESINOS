@@ -82,7 +82,7 @@
               img(src='@/assets/curso/tema4/img6.png', alt='', style="width: 270px").m-auto
           .col-lg-7
             p(style="color:black")
-              b Podcast
+              b Pódcast
 
 
             TarjetaAudio.color-acento-botones.mb-3.bg-3.p-3(

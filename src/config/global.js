@@ -63,7 +63,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Complementariedad entre ambas leye',
+            titulo: 'Complementariedad entre ambas leyes',
             hash: 't_3_1',
           },
         ],

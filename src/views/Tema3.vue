@@ -34,7 +34,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1 Complementariedad entre ambas leye
+      h2 3.1 Complementariedad entre ambas leyes
 
     p Estas dos leyes se complementan para construir un sistema integral de planificación y ordenamiento territorial en Colombia. Mientras la Ley 152 define el qué y el cómo de la planeación en términos generales, la Ley 388 regula el dónde y el para qué, centrándose en el espacio físico y su organización racional.
 
